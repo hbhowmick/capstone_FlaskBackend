@@ -1,0 +1,3 @@
+# first file accessed when the application boots up...
+# run the instance of this application after importing it
+from app import app, db
